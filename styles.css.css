@@ -1,0 +1,48 @@
+body {
+padding: 0 35;
+font-family: "Lucida Sans Unicode", sans-serif;
+font-size: 18px;
+line-height: 38px;
+color: #ffffff;
+background: #000 url() no-repeat 50% 0;
+}
+
+.button1 {
+border: 2px solid #cccccc;
+background: #eaeaea;
+padding: 20px;
+text-decoration: none;
+}
+
+.buttontext1 {
+width: 135px;
+font-family: "Comic Sans MS", cursive;
+font-size: 16px;
+line-height: 135px;
+color: white;
+border: 1px solid #000;
+}
+
+.maintext1 {
+width: 260px;
+font-family: "Arial", sans-serif;
+font-size: 16px;
+line-height: 56px;
+}
+
+.features {
+font-family: "Comic Sans MS", cursive;
+font-size: 16px;
+line-height: 86px;
+}
+
+.pros {
+padding-left: 60px;
+background-image: url();
+}
+
+.features2 {
+font-family: "Comic Sans MS", cursive;
+font-size: 20px;
+line-height: 96px;
+}
